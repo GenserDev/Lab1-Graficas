@@ -1,0 +1,7 @@
+/mnt/c/Users/gense/OneDrive/Documents/Genser-U/Graficas/laboratorios/Lab1-Graficas/lab-1/target/debug/build/raylib-sys-fc975bddf360b443/out/lib/libraylib.a
+/mnt/c/Users/gense/OneDrive/Documents/Genser-U/Graficas/laboratorios/Lab1-Graficas/lab-1/target/debug/build/raylib-sys-fc975bddf360b443/out/include/raylib.h
+/mnt/c/Users/gense/OneDrive/Documents/Genser-U/Graficas/laboratorios/Lab1-Graficas/lab-1/target/debug/build/raylib-sys-fc975bddf360b443/out/include/rlgl.h
+/mnt/c/Users/gense/OneDrive/Documents/Genser-U/Graficas/laboratorios/Lab1-Graficas/lab-1/target/debug/build/raylib-sys-fc975bddf360b443/out/include/raymath.h
+/mnt/c/Users/gense/OneDrive/Documents/Genser-U/Graficas/laboratorios/Lab1-Graficas/lab-1/target/debug/build/raylib-sys-fc975bddf360b443/out/lib/pkgconfig/raylib.pc
+/mnt/c/Users/gense/OneDrive/Documents/Genser-U/Graficas/laboratorios/Lab1-Graficas/lab-1/target/debug/build/raylib-sys-fc975bddf360b443/out/lib/cmake/raylib/raylib-config-version.cmake
+/mnt/c/Users/gense/OneDrive/Documents/Genser-U/Graficas/laboratorios/Lab1-Graficas/lab-1/target/debug/build/raylib-sys-fc975bddf360b443/out/lib/cmake/raylib/raylib-config.cmake
